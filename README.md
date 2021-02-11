@@ -2,11 +2,12 @@
 Github Test_new_repository
 
 Make and Commit changes
-#include "stdio.h"
+#include <stdio.h>
 
 volid main()
 {
   printf("Hellow~"/n);
+  scanf("%d",&a);
   
   return;
 }  
